@@ -1,0 +1,10 @@
+{
+  "name": "BLE E-Paper Tag",
+  "repository": "boldforester/ble-epaper-tags",
+  "appdaemon": false,
+  "python_script": false,
+  "config_flow": true,
+  "documentation": "https://github.com/boldforester/ble-epaper-tags",
+  "issue_tracker": "https://github.com/boldforester/ble-epaper-tags/issues",
+  "dependencies": []
+}
