@@ -1,0 +1,8 @@
+{
+  "domain": "epaper_tag",
+  "name": "BLE E-Paper Tag",
+  "documentation": "https://github.com/BoldForester/BLE-EPaper-Tags",
+  "dependencies": [],
+  "codeowners": ["@boldforester"],
+  "requirements": ["bleak", "Pillow"]
+}
