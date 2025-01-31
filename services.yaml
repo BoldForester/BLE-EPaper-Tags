@@ -1,0 +1,6 @@
+epaper_tag.send_graphics:
+  description: "Send graphics to the E-Paper tag"
+  fields:
+    image_path:
+      description: "Path to the image file"
+      example: "/config/www/my_image.bmp"
